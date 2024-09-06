@@ -140,6 +140,8 @@ dmypy.json
 psk.txt
 stunnel.conf
 
+.idea/
+
 # Pyre type checker
 .pyre/
 
